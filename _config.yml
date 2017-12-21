@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Nguyen17
+title: "Timmy Nguyen"
 email: message.timmynguyen@gmail.com
 description: portfolio of nguyen17
 url: ""
@@ -32,10 +32,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Nguyen17
+  name: "Timmy Nguyen"
   avatar: ""
   job: "Software Engineer & Ruby Developer | UI & UX"
-  bio: "UNLV Undergraduate Student - BA of CS. Passionate for web technologies and user interaction."
+  bio: "UNLV Undergraduate Student - BA of Computer Science and Biology minor. Passionate for web technologies and user interaction."
   email: message.timmynguyen@gmail.com
   facebook: #username
   google:
