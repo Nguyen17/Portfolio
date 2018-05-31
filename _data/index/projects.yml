@@ -1,5 +1,5 @@
 - name: Code and Learn
-  descr: "Built using Ruby on Rails, this project was my first project using a framework. The goal of the site is to provide curated resources for beginners to learn programming :)"
+  descr: "Built using Ruby on Rails, this project was my first project using a framework. The goal of the site is to provide curated resources for beginners to learn programming :) *This website takes a long time to load due to being hosted on heroku free tier !"
   image: /Portfolio/assets/codeandlearn.png
   github: https://github.com/Nguyen17/CodeandLearn
   website: http://codeandlearn.herokuapp.com/
