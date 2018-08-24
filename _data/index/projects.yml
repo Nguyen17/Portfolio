@@ -1,3 +1,9 @@
+- name: Site Redesigns and Remakes
+  descr: "A series of website I try to recreate to develope my layout skills and an understanding of css properties. A great practice for me to get use to using SASS and React."
+  image: /Portfolio/assets/nike_redesign_screenshot.jpg
+  github: https://github.com/Nguyen17/site_designs
+ 
+
 - name: Code and Learn
   descr: "Built using Ruby on Rails, this project was my first project using a framework. The goal of the site is to provide curated resources for beginners to learn programming :) *This website takes a long time to load due to being hosted on heroku free tier !"
   image: /Portfolio/assets/codeandlearn.png
